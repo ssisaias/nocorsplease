@@ -1,6 +1,6 @@
 # This is a Development Middleware - Do not use in production
 
-Here's a little hack to bypass cors in some situations, to develop your frontend applciation (like, when you cannot enable cors in the API server).
+Here's a little hack to bypass cors in some situations, to develop your frontend applications (like, when you cannot enable cors in the API server).
 
 Usage is simple:
 
